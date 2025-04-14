@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Rahul Nayak 
 
-Welcome to my C# project portfolio. 
+Welcome to my C# project portfolio:
+
+1. C# Console Math Game (In Progress): https://github.com/3rahulnayak/CSharp-MathGame
 
 <!--
 **3rahulnayak/3rahulnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
